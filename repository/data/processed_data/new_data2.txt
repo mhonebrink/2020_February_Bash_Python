@@ -1,0 +1,1705 @@
+country	gdpPercap
+Afghanistan	635.341351
+Afghanistan	726.7340548
+Afghanistan	974.5803384
+Afghanistan	779.4453145
+Afghanistan	820.8530296
+Afghanistan	853.10071
+Afghanistan	836.1971382
+Afghanistan	739.9811058
+Afghanistan	786.11336
+Afghanistan	978.0114388
+Afghanistan	852.3959448
+Afghanistan	649.3413952
+Albania	1601.056136
+Albania	1942.284244
+Albania	2312.888958
+Albania	2760.196931
+Albania	3313.422188
+Albania	3533.00391
+Albania	3630.880722
+Albania	3738.932735
+Albania	2497.437901
+Albania	3193.054604
+Albania	4604.211737
+Albania	5937.029526
+Algeria	2550.81688
+Algeria	3246.991771
+Algeria	4182.663766
+Algeria	4910.416756
+Algeria	5745.160213
+Algeria	2449.008185
+Algeria	3013.976023
+Algeria	5681.358539
+Algeria	5023.216647
+Algeria	4797.295051
+Algeria	5288.040382
+Algeria	6223.367465
+Angola	3520.610273
+Angola	3827.940465
+Angola	4269.276742
+Angola	5522.776375
+Angola	5473.288005
+Angola	3008.647355
+Angola	2756.953672
+Angola	2430.208311
+Angola	2627.845685
+Angola	2277.140884
+Angola	2773.287312
+Angola	4797.231267
+Argentina	5911.315053
+Argentina	6856.856212
+Argentina	7133.166023
+Argentina	8052.953021
+Argentina	9443.038526
+Argentina	10079.02674
+Argentina	8997.897412
+Argentina	9139.671389
+Argentina	9308.41871
+Argentina	10967.28195
+Argentina	8797.640716
+Argentina	12779.37964
+Australia	10039.59564
+Australia	10949.64959
+Australia	12217.22686
+Australia	14526.12465
+Australia	16788.62948
+Australia	18334.19751
+Australia	19477.00928
+Australia	21888.88903
+Australia	23424.76683
+Australia	26997.93657
+Australia	30687.75473
+Australia	34435.36744
+Austria	6137.076492
+Austria	8842.59803
+Austria	10750.72111
+Austria	12834.6024
+Austria	16661.6256
+Austria	19749.4223
+Austria	21597.08362
+Austria	23687.82607
+Austria	27042.01868
+Austria	29095.92066
+Austria	32417.60769
+Austria	36126.4927
+Bahrain	9867.084765
+Bahrain	11635.79945
+Bahrain	12753.27514
+Bahrain	14804.6727
+Bahrain	18268.65839
+Bahrain	19340.10196
+Bahrain	19211.14731
+Bahrain	18524.02406
+Bahrain	19035.57917
+Bahrain	20292.01679
+Bahrain	23403.55927
+Bahrain	29796.04834
+Bangladesh	684.2441716
+Bangladesh	661.6374577
+Bangladesh	686.3415538
+Bangladesh	721.1860862
+Bangladesh	630.2336265
+Bangladesh	659.8772322
+Bangladesh	676.9818656
+Bangladesh	751.9794035
+Bangladesh	837.8101643
+Bangladesh	972.7700352
+Bangladesh	1136.39043
+Bangladesh	1391.253792
+Belgium	8343.105127
+Belgium	9714.960623
+Belgium	10991.20676
+Belgium	13149.04119
+Belgium	16672.14356
+Belgium	19117.97448
+Belgium	20979.84589
+Belgium	22525.56308
+Belgium	25575.57069
+Belgium	27561.19663
+Belgium	30485.88375
+Belgium	33692.60508
+Benin	1062.7522
+Benin	959.6010805
+Benin	949.4990641
+Benin	1035.831411
+Benin	1085.796879
+Benin	1029.161251
+Benin	1277.897616
+Benin	1225.85601
+Benin	1191.207681
+Benin	1232.975292
+Benin	1372.877931
+Benin	1441.284873
+Bolivia	2677.326347
+Bolivia	2127.686326
+Bolivia	2180.972546
+Bolivia	2586.886053
+Bolivia	2980.331339
+Bolivia	3548.097832
+Bolivia	3156.510452
+Bolivia	2753.69149
+Bolivia	2961.699694
+Bolivia	3326.143191
+Bolivia	3413.26269
+Bolivia	3822.137084
+Bosnia and Herzegovina	973.5331948
+Bosnia and Herzegovina	1353.989176
+Bosnia and Herzegovina	1709.683679
+Bosnia and Herzegovina	2172.352423
+Bosnia and Herzegovina	2860.16975
+Bosnia and Herzegovina	3528.481305
+Bosnia and Herzegovina	4126.613157
+Bosnia and Herzegovina	4314.114757
+Bosnia and Herzegovina	2546.781445
+Bosnia and Herzegovina	4766.355904
+Bosnia and Herzegovina	6018.975239
+Bosnia and Herzegovina	7446.298803
+Botswana	851.2411407
+Botswana	918.2325349
+Botswana	983.6539764
+Botswana	1214.709294
+Botswana	2263.611114
+Botswana	3214.857818
+Botswana	4551.14215
+Botswana	6205.88385
+Botswana	7954.111645
+Botswana	8647.142313
+Botswana	11003.60508
+Botswana	12569.85177
+Brazil	2108.944355
+Brazil	2487.365989
+Brazil	3336.585802
+Brazil	3429.864357
+Brazil	4985.711467
+Brazil	6660.118654
+Brazil	7030.835878
+Brazil	7807.095818
+Brazil	6950.283021
+Brazil	7957.980824
+Brazil	8131.212843
+Brazil	9065.800825
+Bulgaria	2444.286648
+Bulgaria	3008.670727
+Bulgaria	4254.337839
+Bulgaria	5577.0028
+Bulgaria	6597.494398
+Bulgaria	7612.240438
+Bulgaria	8224.191647
+Bulgaria	8239.854824
+Bulgaria	6302.623438
+Bulgaria	5970.38876
+Bulgaria	7696.777725
+Bulgaria	10680.79282
+Burkina Faso	543.2552413
+Burkina Faso	617.1834648
+Burkina Faso	722.5120206
+Burkina Faso	794.8265597
+Burkina Faso	854.7359763
+Burkina Faso	743.3870368
+Burkina Faso	807.1985855
+Burkina Faso	912.0631417
+Burkina Faso	931.7527731
+Burkina Faso	946.2949618
+Burkina Faso	1037.645221
+Burkina Faso	1217.032994
+Burundi	339.2964587
+Burundi	379.5646281
+Burundi	355.2032273
+Burundi	412.9775136
+Burundi	464.0995039
+Burundi	556.1032651
+Burundi	559.603231
+Burundi	621.8188189
+Burundi	631.6998778
+Burundi	463.1151478
+Burundi	446.4035126
+Burundi	430.0706916
+Cambodia	368.4692856
+Cambodia	434.0383364
+Cambodia	496.9136476
+Cambodia	523.4323142
+Cambodia	421.6240257
+Cambodia	524.9721832
+Cambodia	624.4754784
+Cambodia	683.8955732
+Cambodia	682.3031755
+Cambodia	734.28517
+Cambodia	896.2260153
+Cambodia	1713.778686
+Cameroon	1172.667655
+Cameroon	1313.048099
+Cameroon	1399.607441
+Cameroon	1508.453148
+Cameroon	1684.146528
+Cameroon	1783.432873
+Cameroon	2367.983282
+Cameroon	2602.664206
+Cameroon	1793.163278
+Cameroon	1694.337469
+Cameroon	1934.011449
+Cameroon	2042.09524
+Canada	11367.16112
+Canada	12489.95006
+Canada	13462.48555
+Canada	16076.58803
+Canada	18970.57086
+Canada	22090.88306
+Canada	22898.79214
+Canada	26626.51503
+Canada	26342.88426
+Canada	28954.92589
+Canada	33328.96507
+Canada	36319.23501
+Central African Republic	1071.310713
+Central African Republic	1190.844328
+Central African Republic	1193.068753
+Central African Republic	1136.056615
+Central African Republic	1070.013275
+Central African Republic	1109.374338
+Central African Republic	956.7529907
+Central African Republic	844.8763504
+Central African Republic	747.9055252
+Central African Republic	740.5063317
+Central African Republic	738.6906068
+Central African Republic	706.016537
+Chad	1178.665927
+Chad	1308.495577
+Chad	1389.817618
+Chad	1196.810565
+Chad	1104.103987
+Chad	1133.98495
+Chad	797.9081006
+Chad	952.386129
+Chad	1058.0643
+Chad	1004.961353
+Chad	1156.18186
+Chad	1704.063724
+Chile	3939.978789
+Chile	4315.622723
+Chile	4519.094331
+Chile	5106.654313
+Chile	5494.024437
+Chile	4756.763836
+Chile	5095.665738
+Chile	5547.063754
+Chile	7596.125964
+Chile	10118.05318
+Chile	10778.78385
+Chile	13171.63885
+China	400.448610699994
+China	575.9870009
+China	487.6740183
+China	612.7056934
+China	676.9000921
+China	741.2374699
+China	962.4213805
+China	1378.904018
+China	1655.784158
+China	2289.234136
+China	3119.280896
+China	4959.114854
+Colombia	2144.115096
+Colombia	2323.805581
+Colombia	2492.351109
+Colombia	2678.729839
+Colombia	3264.660041
+Colombia	3815.80787
+Colombia	4397.575659
+Colombia	4903.2191
+Colombia	5444.648617
+Colombia	6117.361746
+Colombia	5755.259962
+Colombia	7006.580419
+Comoros	1102.990936
+Comoros	1211.148548
+Comoros	1406.648278
+Comoros	1876.029643
+Comoros	1937.577675
+Comoros	1172.603047
+Comoros	1267.100083
+Comoros	1315.980812
+Comoros	1246.90737
+Comoros	1173.618235
+Comoros	1075.811558
+Comoros	986.1478792
+Congo, Dem. Rep.	780.5423257
+Congo, Dem. Rep.	905.8602303
+Congo, Dem. Rep.	896.3146335
+Congo, Dem. Rep.	861.5932424
+Congo, Dem. Rep.	904.8960685
+Congo, Dem. Rep.	795.757282
+Congo, Dem. Rep.	673.7478181
+Congo, Dem. Rep.	672.774812
+Congo, Dem. Rep.	457.7191807
+Congo, Dem. Rep.	312.188423
+Congo, Dem. Rep.	241.1658765
+Congo, Dem. Rep.	277.5518587
+Congo, Rep.	2125.621418
+Congo, Rep.	2315.056572
+Congo, Rep.	2464.783157
+Congo, Rep.	2677.939642
+Congo, Rep.	3213.152683
+Congo, Rep.	3259.178978
+Congo, Rep.	4879.507522
+Congo, Rep.	4201.194937
+Congo, Rep.	4016.239529
+Congo, Rep.	3484.164376
+Congo, Rep.	3484.06197
+Congo, Rep.	3632.557798
+Costa Rica	2627.009471
+Costa Rica	2990.010802
+Costa Rica	3460.937025
+Costa Rica	4161.727834
+Costa Rica	5118.146939
+Costa Rica	5926.876967
+Costa Rica	5262.734751
+Costa Rica	5629.915318
+Costa Rica	6160.416317
+Costa Rica	6677.045314
+Costa Rica	7723.447195
+Costa Rica	9645.06142
+Cote d'Ivoire	1388.594732
+Cote d'Ivoire	1500.895925
+Cote d'Ivoire	1728.869428
+Cote d'Ivoire	2052.050473
+Cote d'Ivoire	2378.201111
+Cote d'Ivoire	2517.736547
+Cote d'Ivoire	2602.710169
+Cote d'Ivoire	2156.956069
+Cote d'Ivoire	1648.073791
+Cote d'Ivoire	1786.265407
+Cote d'Ivoire	1648.800823
+Cote d'Ivoire	1544.750112
+Croatia	3119.23652
+Croatia	4338.231617
+Croatia	5477.890018
+Croatia	6960.297861
+Croatia	9164.090127
+Croatia	11305.38517
+Croatia	13221.82184
+Croatia	13822.58394
+Croatia	8447.794873
+Croatia	9875.604515
+Croatia	11628.38895
+Croatia	14619.22272
+Cuba	5586.53878
+Cuba	6092.174359
+Cuba	5180.75591
+Cuba	5690.268015
+Cuba	5305.445256
+Cuba	6380.494966
+Cuba	7316.918107
+Cuba	7532.924763
+Cuba	5592.843963
+Cuba	5431.990415
+Cuba	6340.646683
+Cuba	8948.102923
+Czech Republic	6876.14025
+Czech Republic	8256.343918
+Czech Republic	10136.86713
+Czech Republic	11399.44489
+Czech Republic	13108.4536
+Czech Republic	14800.16062
+Czech Republic	15377.22855
+Czech Republic	16310.4434
+Czech Republic	14297.02122
+Czech Republic	16048.51424
+Czech Republic	17596.21022
+Czech Republic	22833.30851
+Denmark	9692.385245
+Denmark	11099.65935
+Denmark	13583.31351
+Denmark	15937.21123
+Denmark	18866.20721
+Denmark	20422.9015
+Denmark	21688.04048
+Denmark	25116.17581
+Denmark	26406.73985
+Denmark	29804.34567
+Denmark	32166.50006
+Denmark	35278.41874
+Djibouti	2669.529475
+Djibouti	2864.969076
+Djibouti	3020.989263
+Djibouti	3020.050513
+Djibouti	3694.212352
+Djibouti	3081.761022
+Djibouti	2879.468067
+Djibouti	2880.102568
+Djibouti	2377.156192
+Djibouti	1895.016984
+Djibouti	1908.260867
+Djibouti	2082.481567
+Dominican Republic	1397.717137
+Dominican Republic	1544.402995
+Dominican Republic	1662.137359
+Dominican Republic	1653.723003
+Dominican Republic	2189.874499
+Dominican Republic	2681.9889
+Dominican Republic	2861.092386
+Dominican Republic	2899.842175
+Dominican Republic	3044.214214
+Dominican Republic	3614.101285
+Dominican Republic	4563.808154
+Dominican Republic	6025.374752
+Ecuador	3522.110717
+Ecuador	3780.546651
+Ecuador	4086.114078
+Ecuador	4579.074215
+Ecuador	5280.99471
+Ecuador	6679.62326
+Ecuador	7213.791267
+Ecuador	6481.776993
+Ecuador	7103.702595
+Ecuador	7429.455877
+Ecuador	5773.044512
+Ecuador	6873.262326
+Egypt	1418.822445
+Egypt	1458.915272
+Egypt	1693.335853
+Egypt	1814.880728
+Egypt	2024.008147
+Egypt	2785.493582
+Egypt	3503.729636
+Egypt	3885.46071
+Egypt	3794.755195
+Egypt	4173.181797
+Egypt	4754.604414
+Egypt	5581.180998
+El Salvador	3048.3029
+El Salvador	3421.523218
+El Salvador	3776.803627
+El Salvador	4358.595393
+El Salvador	4520.246008
+El Salvador	5138.922374
+El Salvador	4098.344175
+El Salvador	4140.442097
+El Salvador	4444.2317
+El Salvador	5154.825496
+El Salvador	5351.568666
+El Salvador	5728.353514
+Equatorial Guinea	375.6431231
+Equatorial Guinea	426.0964081
+Equatorial Guinea	582.8419714
+Equatorial Guinea	915.5960025
+Equatorial Guinea	672.4122571
+Equatorial Guinea	958.5668124
+Equatorial Guinea	927.8253427
+Equatorial Guinea	966.8968149
+Equatorial Guinea	1132.055034
+Equatorial Guinea	2814.480755
+Equatorial Guinea	7703.4959
+Equatorial Guinea	12154.08975
+Eritrea	328.9405571
+Eritrea	344.1618859
+Eritrea	380.9958433
+Eritrea	468.7949699
+Eritrea	514.3242082
+Eritrea	505.7538077
+Eritrea	524.8758493
+Eritrea	521.1341333
+Eritrea	582.8585102
+Eritrea	913.47079
+Eritrea	765.3500015
+Eritrea	641.3695236
+Ethiopia	362.1462796
+Ethiopia	378.9041632
+Ethiopia	419.4564161
+Ethiopia	516.1186438
+Ethiopia	566.2439442
+Ethiopia	556.8083834
+Ethiopia	577.8607471
+Ethiopia	573.7413142
+Ethiopia	421.3534653
+Ethiopia	515.8894013
+Ethiopia	530.0535319
+Ethiopia	690.8055759
+Finland	6424.519071
+Finland	7545.415386
+Finland	9371.842561
+Finland	10921.63626
+Finland	14358.8759
+Finland	15605.42283
+Finland	18533.15761
+Finland	21141.01223
+Finland	20647.16499
+Finland	23723.9502
+Finland	28204.59057
+Finland	33207.0844
+France	7029.809327
+France	8662.834898
+France	10560.48553
+France	12999.91766
+France	16107.19171
+France	18292.63514
+France	20293.89746
+France	22066.44214
+France	24703.79615
+France	25889.78487
+France	28926.03234
+France	30470.0167
+Gabon	4293.476475
+Gabon	4976.198099
+Gabon	6631.459222
+Gabon	8358.761987
+Gabon	11401.94841
+Gabon	21745.57328
+Gabon	15113.36194
+Gabon	11864.40844
+Gabon	13522.15752
+Gabon	14722.84188
+Gabon	12521.71392
+Gabon	13206.48452
+Gambia	485.2306591
+Gambia	520.9267111
+Gambia	599.650276
+Gambia	734.7829124
+Gambia	756.0868363
+Gambia	884.7552507
+Gambia	835.8096108
+Gambia	611.6588611
+Gambia	665.6244126
+Gambia	653.7301704
+Gambia	660.5855997
+Gambia	752.7497265
+Germany	7144.114393
+Germany	10187.82665
+Germany	12902.46291
+Germany	14745.62561
+Germany	18016.18027
+Germany	20512.92123
+Germany	22031.53274
+Germany	24639.18566
+Germany	26505.30317
+Germany	27788.88416
+Germany	30035.80198
+Germany	32170.37442
+Ghana	911.2989371
+Ghana	1043.561537
+Ghana	1190.041118
+Ghana	1125.69716
+Ghana	1178.223708
+Ghana	993.2239571
+Ghana	876.032569
+Ghana	847.0061135
+Ghana	925.060154
+Ghana	1005.245812
+Ghana	1111.984578
+Ghana	1327.60891
+Greece	3530.690067
+Greece	4916.299889
+Greece	6017.190733
+Greece	8513.097016
+Greece	12724.82957
+Greece	14195.52428
+Greece	15268.42089
+Greece	16120.52839
+Greece	17541.49634
+Greece	18747.69814
+Greece	22514.2548
+Greece	27538.41188
+Guatemala	2428.237769
+Guatemala	2617.155967
+Guatemala	2750.364446
+Guatemala	3242.531147
+Guatemala	4031.408271
+Guatemala	4879.992748
+Guatemala	4820.49479
+Guatemala	4246.485974
+Guatemala	4439.45084
+Guatemala	4684.313807
+Guatemala	4858.347495
+Guatemala	5186.050003
+Guinea	510.1964923
+Guinea	576.2670245
+Guinea	686.3736739
+Guinea	708.7595409
+Guinea	741.6662307
+Guinea	874.6858643
+Guinea	857.2503577
+Guinea	805.5724718
+Guinea	794.3484384
+Guinea	869.4497668
+Guinea	945.5835837
+Guinea	942.6542111
+Guinea-Bissau	299.850319
+Guinea-Bissau	431.7904566
+Guinea-Bissau	522.0343725
+Guinea-Bissau	715.5806402
+Guinea-Bissau	820.2245876
+Guinea-Bissau	764.7259628
+Guinea-Bissau	838.1239671
+Guinea-Bissau	736.4153921
+Guinea-Bissau	745.5398706
+Guinea-Bissau	796.6644681
+Guinea-Bissau	575.7047176
+Guinea-Bissau	579.231743
+Haiti	1840.366939
+Haiti	1726.887882
+Haiti	1796.589032
+Haiti	1452.057666
+Haiti	1654.456946
+Haiti	1874.298931
+Haiti	2011.159549
+Haiti	1823.015995
+Haiti	1456.309517
+Haiti	1341.726931
+Haiti	1270.364932
+Haiti	1201.637154
+Honduras	2194.926204
+Honduras	2220.487682
+Honduras	2291.156835
+Honduras	2538.269358
+Honduras	2529.842345
+Honduras	3203.208066
+Honduras	3121.760794
+Honduras	3023.096699
+Honduras	3081.694603
+Honduras	3160.454906
+Honduras	3099.72866
+Honduras	3548.330846
+Hong Kong, China	3054.421209
+Hong Kong, China	3629.076457
+Hong Kong, China	4692.648272
+Hong Kong, China	6197.962814
+Hong Kong, China	8315.928145
+Hong Kong, China	11186.14125
+Hong Kong, China	14560.53051
+Hong Kong, China	20038.47269
+Hong Kong, China	24757.60301
+Hong Kong, China	28377.63219
+Hong Kong, China	30209.01516
+Hong Kong, China	39724.97867
+Hungary	5263.673816
+Hungary	6040.180011
+Hungary	7550.359877
+Hungary	9326.64467
+Hungary	10168.65611
+Hungary	11674.83737
+Hungary	12545.99066
+Hungary	12986.47998
+Hungary	10535.62855
+Hungary	11712.7768
+Hungary	14843.93556
+Hungary	18008.94444
+Iceland	7267.688428
+Iceland	9244.001412
+Iceland	10350.15906
+Iceland	13319.89568
+Iceland	15798.06362
+Iceland	19654.96247
+Iceland	23269.6075
+Iceland	26923.20628
+Iceland	25144.39201
+Iceland	28061.09966
+Iceland	31163.20196
+Iceland	36180.78919
+India	546.5657493
+India	590.061996
+India	658.3471509
+India	700.7706107
+India	724.032527
+India	813.337323
+India	855.7235377
+India	976.5126756
+India	1164.406809
+India	1458.817442
+India	1746.769454
+India	2452.210407
+Indonesia	749.6816546
+Indonesia	858.9002707
+Indonesia	849.2897701
+Indonesia	762.4317721
+Indonesia	1111.107907
+Indonesia	1382.702056
+Indonesia	1516.872988
+Indonesia	1748.356961
+Indonesia	2383.140898
+Indonesia	3119.335603
+Indonesia	2873.91287
+Indonesia	3540.651564
+Iran	3035.326002
+Iran	3290.257643
+Iran	4187.329802
+Iran	5906.731805
+Iran	9613.818607
+Iran	11888.59508
+Iran	7608.334602
+Iran	6642.881371
+Iran	7235.653188
+Iran	8263.590301
+Iran	9240.761975
+Iran	11605.71449
+Iraq	4129.766056
+Iraq	6229.333562
+Iraq	8341.737815
+Iraq	8931.459811
+Iraq	9576.037596
+Iraq	14688.23507
+Iraq	14517.90711
+Iraq	11643.57268
+Iraq	3745.640687
+Iraq	3076.239795
+Iraq	4390.717312
+Iraq	4471.061906
+Ireland	5210.280328
+Ireland	5599.077872
+Ireland	6631.597314
+Ireland	7655.568963
+Ireland	9530.772896
+Ireland	11150.98113
+Ireland	12618.32141
+Ireland	13872.86652
+Ireland	17558.81555
+Ireland	24521.94713
+Ireland	34077.04939
+Ireland	40675.99635
+Israel	4086.522128
+Israel	5385.278451
+Israel	7105.630706
+Israel	8393.741404
+Israel	12786.93223
+Israel	13306.61921
+Israel	15367.0292
+Israel	17122.47986
+Israel	18051.52254
+Israel	20896.60924
+Israel	21905.59514
+Israel	25523.2771
+Italy	4931.404155
+Italy	6248.656232
+Italy	8243.58234
+Italy	10022.40131
+Italy	12269.27378
+Italy	14255.98475
+Italy	16537.4835
+Italy	19207.23482
+Italy	22013.64486
+Italy	24675.02446
+Italy	27968.09817
+Italy	28569.7197
+Jamaica	2898.530881
+Jamaica	4756.525781
+Jamaica	5246.107524
+Jamaica	6124.703451
+Jamaica	7433.889293
+Jamaica	6650.195573
+Jamaica	6068.05135
+Jamaica	6351.237495
+Jamaica	7404.923685
+Jamaica	7121.924704
+Jamaica	6994.774861
+Jamaica	7320.880262
+Japan	3216.956347
+Japan	4317.694365
+Japan	6576.649461
+Japan	9847.788607
+Japan	14778.78636
+Japan	16610.37701
+Japan	19384.10571
+Japan	22375.94189
+Japan	26824.89511
+Japan	28816.58499
+Japan	28604.5919
+Japan	31656.06806
+Jordan	1546.907807
+Jordan	1886.080591
+Jordan	2348.009158
+Jordan	2741.796252
+Jordan	2110.856309
+Jordan	2852.351568
+Jordan	4161.415959
+Jordan	4448.679912
+Jordan	3431.593647
+Jordan	3645.379572
+Jordan	3844.917194
+Jordan	4519.461171
+Kenya	853.540919
+Kenya	944.4383152
+Kenya	896.9663732
+Kenya	1056.736457
+Kenya	1222.359968
+Kenya	1267.613204
+Kenya	1348.225791
+Kenya	1361.936856
+Kenya	1341.921721
+Kenya	1360.485021
+Kenya	1287.514732
+Kenya	1463.249282
+Korea, Dem. Rep.	1088.277758
+Korea, Dem. Rep.	1571.134655
+Korea, Dem. Rep.	1621.693598
+Korea, Dem. Rep.	2143.540609
+Korea, Dem. Rep.	3701.621503
+Korea, Dem. Rep.	4106.301249
+Korea, Dem. Rep.	4106.525293
+Korea, Dem. Rep.	4106.492315
+Korea, Dem. Rep.	3726.063507
+Korea, Dem. Rep.	1690.756814
+Korea, Dem. Rep.	1646.758151
+Korea, Dem. Rep.	1593.06548
+Korea, Rep.	1030.592226
+Korea, Rep.	1487.593537
+Korea, Rep.	1536.344387
+Korea, Rep.	2029.228142
+Korea, Rep.	3030.87665
+Korea, Rep.	4657.22102
+Korea, Rep.	5622.942464
+Korea, Rep.	8533.088805
+Korea, Rep.	12104.27872
+Korea, Rep.	15993.52796
+Korea, Rep.	19233.98818
+Korea, Rep.	23348.13973
+Kuwait	108382.3529
+Kuwait	113523.1329
+Kuwait	95458.11176
+Kuwait	80894.88326
+Kuwait	109347.867
+Kuwait	59265.47714
+Kuwait	31354.03573
+Kuwait	28118.42998
+Kuwait	34932.91959
+Kuwait	40300.61996
+Kuwait	35110.10566
+Kuwait	47306.98978
+Lebanon	4834.804067
+Lebanon	6089.786934
+Lebanon	5714.560611
+Lebanon	6006.983042
+Lebanon	7486.384341
+Lebanon	8659.696836
+Lebanon	7640.519521
+Lebanon	5377.091329
+Lebanon	6890.806854
+Lebanon	8754.96385
+Lebanon	9313.93883
+Lebanon	10461.05868
+Lesotho	298.8462121
+Lesotho	335.9971151
+Lesotho	411.8006266
+Lesotho	498.6390265
+Lesotho	496.5815922
+Lesotho	745.3695408
+Lesotho	797.2631074
+Lesotho	773.9932141
+Lesotho	977.4862725
+Lesotho	1186.147994
+Lesotho	1275.184575
+Lesotho	1569.331442
+Liberia	575.5729961
+Liberia	620.9699901
+Liberia	634.1951625
+Liberia	713.6036483
+Liberia	803.0054535
+Liberia	640.3224383
+Liberia	572.1995694
+Liberia	506.1138573
+Liberia	636.6229191
+Liberia	609.1739508
+Liberia	531.4823679
+Liberia	414.5073415
+Libya	2387.54806
+Libya	3448.284395
+Libya	6757.030816
+Libya	18772.75169
+Libya	21011.49721
+Libya	21951.21176
+Libya	17364.27538
+Libya	11770.5898
+Libya	9640.138501
+Libya	9467.446056
+Libya	9534.677467
+Libya	12057.49928
+Madagascar	1443.011715
+Madagascar	1589.20275
+Madagascar	1643.38711
+Madagascar	1634.047282
+Madagascar	1748.562982
+Madagascar	1544.228586
+Madagascar	1302.878658
+Madagascar	1155.441948
+Madagascar	1040.67619
+Madagascar	986.2958956
+Madagascar	894.6370822
+Madagascar	1044.770126
+Malawi	369.1650802
+Malawi	416.3698064
+Malawi	427.9010856
+Malawi	495.5147806
+Malawi	584.6219709
+Malawi	663.2236766
+Malawi	632.8039209
+Malawi	635.5173634
+Malawi	563.2000145
+Malawi	692.2758103
+Malawi	665.4231186
+Malawi	759.3499101
+Malaysia	1831.132894
+Malaysia	1810.066992
+Malaysia	2036.884944
+Malaysia	2277.742396
+Malaysia	2849.09478
+Malaysia	3827.921571
+Malaysia	4920.355951
+Malaysia	5249.802653
+Malaysia	7277.912802
+Malaysia	10132.90964
+Malaysia	10206.97794
+Malaysia	12451.6558
+Mali	452.3369807
+Mali	490.3821867
+Mali	496.1743428
+Mali	545.0098873
+Mali	581.3688761
+Mali	686.3952693
+Mali	618.0140641
+Mali	684.1715576
+Mali	739.014375
+Mali	790.2579846
+Mali	951.4097518
+Mali	1042.581557
+Mauritania	743.1159097
+Mauritania	846.1202613
+Mauritania	1055.896036
+Mauritania	1421.145193
+Mauritania	1586.851781
+Mauritania	1497.492223
+Mauritania	1481.150189
+Mauritania	1421.603576
+Mauritania	1361.369784
+Mauritania	1483.136136
+Mauritania	1579.019543
+Mauritania	1803.151496
+Mauritius	1967.955707
+Mauritius	2034.037981
+Mauritius	2529.067487
+Mauritius	2475.387562
+Mauritius	2575.484158
+Mauritius	3710.982963
+Mauritius	3688.037739
+Mauritius	4783.586903
+Mauritius	6058.253846
+Mauritius	7425.705295
+Mauritius	9021.815894
+Mauritius	10956.99112
+Mexico	3478.125529
+Mexico	4131.546641
+Mexico	4581.609385
+Mexico	5754.733883
+Mexico	6809.40669
+Mexico	7674.929108
+Mexico	9611.147541
+Mexico	8688.156003
+Mexico	9472.384295
+Mexico	9767.29753
+Mexico	10742.44053
+Mexico	11977.57496
+Mongolia	786.5668575
+Mongolia	912.6626085
+Mongolia	1056.353958
+Mongolia	1226.04113
+Mongolia	1421.741975
+Mongolia	1647.511665
+Mongolia	2000.603139
+Mongolia	2338.008304
+Mongolia	1785.402016
+Mongolia	1902.2521
+Mongolia	2140.739323
+Mongolia	3095.772271
+Montenegro	2647.585601
+Montenegro	3682.259903
+Montenegro	4649.593785
+Montenegro	5907.850937
+Montenegro	7778.414017
+Montenegro	9595.929905
+Montenegro	11222.58762
+Montenegro	11732.51017
+Montenegro	7003.339037
+Montenegro	6465.613349
+Montenegro	6557.194282
+Montenegro	9253.896111
+Morocco	1688.20357
+Morocco	1642.002314
+Morocco	1566.353493
+Morocco	1711.04477
+Morocco	1930.194975
+Morocco	2370.619976
+Morocco	2702.620356
+Morocco	2755.046991
+Morocco	2948.047252
+Morocco	2982.101858
+Morocco	3258.495584
+Morocco	3820.17523
+Mozambique	468.5260381
+Mozambique	495.5868333
+Mozambique	556.6863539
+Mozambique	566.6691539
+Mozambique	724.9178037
+Mozambique	502.3197334
+Mozambique	462.2114149
+Mozambique	389.8761846
+Mozambique	410.8968239
+Mozambique	472.3460771
+Mozambique	633.6179466
+Mozambique	823.6856205
+Myanmar	331
+Myanmar	350
+Myanmar	388
+Myanmar	349
+Myanmar	357
+Myanmar	371
+Myanmar	424
+Myanmar	385
+Myanmar	347
+Myanmar	415
+Myanmar	611
+Myanmar	944
+Namibia	2423.780443
+Namibia	2621.448058
+Namibia	3173.215595
+Namibia	3793.694753
+Namibia	3746.080948
+Namibia	3876.485958
+Namibia	4191.100511
+Namibia	3693.731337
+Namibia	3804.537999
+Namibia	3899.52426
+Namibia	4072.324751
+Namibia	4811.060429
+Nepal	545.8657229
+Nepal	597.9363558
+Nepal	652.3968593
+Nepal	676.4422254
+Nepal	674.7881296
+Nepal	694.1124398
+Nepal	718.3730947
+Nepal	775.6324501
+Nepal	897.7403604
+Nepal	1010.892138
+Nepal	1057.206311
+Nepal	1091.359778
+Netherlands	8941.571858
+Netherlands	11276.19344
+Netherlands	12790.84956
+Netherlands	15363.25136
+Netherlands	18794.74567
+Netherlands	21209.0592
+Netherlands	21399.46046
+Netherlands	23651.32361
+Netherlands	26790.94961
+Netherlands	30246.13063
+Netherlands	33724.75778
+Netherlands	36797.93332
+New Zealand	10556.57566
+New Zealand	12247.39532
+New Zealand	13175.678
+New Zealand	14463.91893
+New Zealand	16046.03728
+New Zealand	16233.7177
+New Zealand	17632.4104
+New Zealand	19007.19129
+New Zealand	18363.32494
+New Zealand	21050.41377
+New Zealand	23189.80135
+New Zealand	25185.00911
+Nicaragua	3112.363948
+Nicaragua	3457.415947
+Nicaragua	3634.364406
+Nicaragua	4643.393534
+Nicaragua	4688.593267
+Nicaragua	5486.371089
+Nicaragua	3470.338156
+Nicaragua	2955.984375
+Nicaragua	2170.151724
+Nicaragua	2253.023004
+Nicaragua	2474.548819
+Nicaragua	2749.320965
+Niger	761.879376
+Niger	835.5234025
+Niger	997.7661127
+Niger	1054.384891
+Niger	954.2092363
+Niger	808.8970728
+Niger	909.7221354
+Niger	668.3000228
+Niger	581.182725
+Niger	580.3052092
+Niger	601.0745012
+Niger	619.6768924
+Nigeria	1077.281856
+Nigeria	1100.592563
+Nigeria	1150.927478
+Nigeria	1014.514104
+Nigeria	1698.388838
+Nigeria	1981.951806
+Nigeria	1576.97375
+Nigeria	1385.029563
+Nigeria	1619.848217
+Nigeria	1624.941275
+Nigeria	1615.286395
+Nigeria	2013.977305
+Norway	10095.42172
+Norway	11653.97304
+Norway	13450.40151
+Norway	16361.87647
+Norway	18965.05551
+Norway	23311.34939
+Norway	26298.63531
+Norway	31540.9748
+Norway	33965.66115
+Norway	41283.16433
+Norway	44683.97525
+Norway	49357.19017
+Oman	1828.230307
+Oman	2242.746551
+Oman	2924.638113
+Oman	4720.942687
+Oman	10618.03855
+Oman	11848.34392
+Oman	12954.79101
+Oman	18115.22313
+Oman	18616.70691
+Oman	19702.05581
+Oman	19774.83687
+Oman	22316.19287
+Pakistan	684.5971438
+Pakistan	747.0835292
+Pakistan	803.3427418
+Pakistan	942.4082588
+Pakistan	1049.938981
+Pakistan	1175.921193
+Pakistan	1443.429832
+Pakistan	1704.686583
+Pakistan	1971.829464
+Pakistan	2049.350521
+Pakistan	2092.712441
+Pakistan	2605.94758
+Panama	2480.380334
+Panama	2961.800905
+Panama	3536.540301
+Panama	4421.009084
+Panama	5364.249663
+Panama	5351.912144
+Panama	7009.601598
+Panama	7034.779161
+Panama	6618.74305
+Panama	7113.692252
+Panama	7356.031934
+Panama	9809.185636
+Paraguay	1952.308701
+Paraguay	2046.154706
+Paraguay	2148.027146
+Paraguay	2299.376311
+Paraguay	2523.337977
+Paraguay	3248.373311
+Paraguay	4258.503604
+Paraguay	3998.875695
+Paraguay	4196.411078
+Paraguay	4247.400261
+Paraguay	3783.674243
+Paraguay	4172.838464
+Peru	3758.523437
+Peru	4245.256698
+Peru	4957.037982
+Peru	5788.09333
+Peru	5937.827283
+Peru	6281.290855
+Peru	6434.501797
+Peru	6360.943444
+Peru	4446.380924
+Peru	5838.347657
+Peru	5909.020073
+Peru	7408.905561
+Philippines	1272.880995
+Philippines	1547.944844
+Philippines	1649.552153
+Philippines	1814.12743
+Philippines	1989.37407
+Philippines	2373.204287
+Philippines	2603.273765
+Philippines	2189.634995
+Philippines	2279.324017
+Philippines	2536.534925
+Philippines	2650.921068
+Philippines	3190.481016
+Poland	4029.329699
+Poland	4734.253019
+Poland	5338.752143
+Poland	6557.152776
+Poland	8006.506993
+Poland	9508.141454
+Poland	8451.531004
+Poland	9082.351172
+Poland	7738.881247
+Poland	10159.58368
+Poland	12002.23908
+Poland	15389.92468
+Portugal	3068.319867
+Portugal	3774.571743
+Portugal	4727.954889
+Portugal	6361.517993
+Portugal	9022.247417
+Portugal	10172.48572
+Portugal	11753.84291
+Portugal	13039.30876
+Portugal	16207.26663
+Portugal	17641.03156
+Portugal	19970.90787
+Portugal	20509.64777
+Puerto Rico	3081.959785
+Puerto Rico	3907.156189
+Puerto Rico	5108.34463
+Puerto Rico	6929.277714
+Puerto Rico	9123.041742
+Puerto Rico	9770.524921
+Puerto Rico	10330.98915
+Puerto Rico	12281.34191
+Puerto Rico	14641.58711
+Puerto Rico	16999.4333
+Puerto Rico	18855.60618
+Puerto Rico	19328.70901
+Reunion	2718.885295
+Reunion	2769.451844
+Reunion	3173.72334
+Reunion	4021.175739
+Reunion	5047.658563
+Reunion	4319.804067
+Reunion	5267.219353
+Reunion	5303.377488
+Reunion	6101.255823
+Reunion	6071.941411
+Reunion	6316.1652
+Reunion	7670.122558
+Romania	3144.613186
+Romania	3943.370225
+Romania	4734.997586
+Romania	6470.866545
+Romania	8011.414402
+Romania	9356.39724
+Romania	9605.314053
+Romania	9696.273295
+Romania	6598.409903
+Romania	7346.547557
+Romania	7885.360081
+Romania	10808.47561
+Rwanda	493.3238752
+Rwanda	540.2893983
+Rwanda	597.4730727
+Rwanda	510.9637142
+Rwanda	590.5806638
+Rwanda	670.0806011
+Rwanda	881.5706467
+Rwanda	847.991217
+Rwanda	737.0685949
+Rwanda	589.9445051
+Rwanda	785.6537648
+Rwanda	863.0884639
+Sao Tome and Principe	879.5835855
+Sao Tome and Principe	860.7369026
+Sao Tome and Principe	1071.551119
+Sao Tome and Principe	1384.840593
+Sao Tome and Principe	1532.985254
+Sao Tome and Principe	1737.561657
+Sao Tome and Principe	1890.218117
+Sao Tome and Principe	1516.525457
+Sao Tome and Principe	1428.777814
+Sao Tome and Principe	1339.076036
+Sao Tome and Principe	1353.09239
+Sao Tome and Principe	1598.435089
+Saudi Arabia	6459.554823
+Saudi Arabia	8157.591248
+Saudi Arabia	11626.41975
+Saudi Arabia	16903.04886
+Saudi Arabia	24837.42865
+Saudi Arabia	34167.7626
+Saudi Arabia	33693.17525
+Saudi Arabia	21198.26136
+Saudi Arabia	24841.61777
+Saudi Arabia	20586.69019
+Saudi Arabia	19014.54118
+Saudi Arabia	21654.83194
+Senegal	1450.356983
+Senegal	1567.653006
+Senegal	1654.988723
+Senegal	1612.404632
+Senegal	1597.712056
+Senegal	1561.769116
+Senegal	1518.479984
+Senegal	1441.72072
+Senegal	1367.899369
+Senegal	1392.368347
+Senegal	1519.635262
+Senegal	1712.472136
+Serbia	3581.459448
+Serbia	4981.090891
+Serbia	6289.629157
+Serbia	7991.707066
+Serbia	10522.06749
+Serbia	12980.66956
+Serbia	15181.0927
+Serbia	15870.87851
+Serbia	9325.068238
+Serbia	7914.320304
+Serbia	7236.075251
+Serbia	9786.534714
+Sierra Leone	879.7877358
+Sierra Leone	1004.484437
+Sierra Leone	1116.639877
+Sierra Leone	1206.043465
+Sierra Leone	1353.759762
+Sierra Leone	1348.285159
+Sierra Leone	1465.010784
+Sierra Leone	1294.447788
+Sierra Leone	1068.696278
+Sierra Leone	574.6481576
+Sierra Leone	699.489713
+Sierra Leone	862.5407561
+Singapore	2315.138227
+Singapore	2843.104409
+Singapore	3674.735572
+Singapore	4977.41854
+Singapore	8597.756202
+Singapore	11210.08948
+Singapore	15169.16112
+Singapore	18861.53081
+Singapore	24769.8912
+Singapore	33519.4766
+Singapore	36023.1054
+Singapore	47143.17964
+Slovak Republic	5074.659104
+Slovak Republic	6093.26298
+Slovak Republic	7481.107598
+Slovak Republic	8412.902397
+Slovak Republic	9674.167626
+Slovak Republic	10922.66404
+Slovak Republic	11348.54585
+Slovak Republic	12037.26758
+Slovak Republic	9498.467723
+Slovak Republic	12126.23065
+Slovak Republic	13638.77837
+Slovak Republic	18678.31435
+Slovenia	4215.041741
+Slovenia	5862.276629
+Slovenia	7402.303395
+Slovenia	9405.489397
+Slovenia	12383.4862
+Slovenia	15277.03017
+Slovenia	17866.72175
+Slovenia	18678.53492
+Slovenia	14214.71681
+Slovenia	17161.10735
+Slovenia	20660.01936
+Slovenia	25768.25759
+Somalia	1135.749842
+Somalia	1258.147413
+Somalia	1369.488336
+Somalia	1284.73318
+Somalia	1254.576127
+Somalia	1450.992513
+Somalia	1176.807031
+Somalia	1093.244963
+Somalia	926.9602964
+Somalia	930.5964284
+Somalia	882.0818218
+Somalia	926.1410683
+South Africa	4725.295531
+South Africa	5487.104219
+South Africa	5768.729717
+South Africa	7114.477971
+South Africa	7765.962636
+South Africa	8028.651439
+South Africa	8568.266228
+South Africa	7825.823398
+South Africa	7225.069258
+South Africa	7479.188244
+South Africa	7710.946444
+South Africa	9269.657808
+Spain	3834.034742
+Spain	4564.80241
+Spain	5693.843879
+Spain	7993.512294
+Spain	10638.75131
+Spain	13236.92117
+Spain	13926.16997
+Spain	15764.98313
+Spain	18603.06452
+Spain	20445.29896
+Spain	24835.47166
+Spain	28821.0637
+Sri Lanka	1083.53203
+Sri Lanka	1072.546602
+Sri Lanka	1074.47196
+Sri Lanka	1135.514326
+Sri Lanka	1213.39553
+Sri Lanka	1348.775651
+Sri Lanka	1648.079789
+Sri Lanka	1876.766827
+Sri Lanka	2153.739222
+Sri Lanka	2664.477257
+Sri Lanka	3015.378833
+Sri Lanka	3970.095407
+Sudan	1615.991129
+Sudan	1770.337074
+Sudan	1959.593767
+Sudan	1687.997641
+Sudan	1659.652775
+Sudan	2202.988423
+Sudan	1895.544073
+Sudan	1507.819159
+Sudan	1492.197043
+Sudan	1632.210764
+Sudan	1993.398314
+Sudan	2602.394995
+Swaziland	1148.376626
+Swaziland	1244.708364
+Swaziland	1856.182125
+Swaziland	2613.101665
+Swaziland	3364.836625
+Swaziland	3781.410618
+Swaziland	3895.384018
+Swaziland	3984.839812
+Swaziland	3553.0224
+Swaziland	3876.76846
+Swaziland	4128.116943
+Swaziland	4513.480643
+Sweden	8527.844662
+Sweden	9911.878226
+Sweden	12329.44192
+Sweden	15258.29697
+Sweden	17832.02464
+Sweden	18855.72521
+Sweden	20667.38125
+Sweden	23586.92927
+Sweden	23880.01683
+Sweden	25266.59499
+Sweden	29341.63093
+Sweden	33859.74835
+Switzerland	14734.23275
+Switzerland	17909.48973
+Switzerland	20431.0927
+Switzerland	22966.14432
+Switzerland	27195.11304
+Switzerland	26982.29052
+Switzerland	28397.71512
+Switzerland	30281.70459
+Switzerland	31871.5303
+Switzerland	32135.32301
+Switzerland	34480.95771
+Switzerland	37506.41907
+Syria	1643.485354
+Syria	2117.234893
+Syria	2193.037133
+Syria	1881.923632
+Syria	2571.423014
+Syria	3195.484582
+Syria	3761.837715
+Syria	3116.774285
+Syria	3340.542768
+Syria	4014.238972
+Syria	4090.925331
+Syria	4184.548089
+Taiwan	1206.947913
+Taiwan	1507.86129
+Taiwan	1822.879028
+Taiwan	2643.858681
+Taiwan	4062.523897
+Taiwan	5596.519826
+Taiwan	7426.354774
+Taiwan	11054.56175
+Taiwan	15215.6579
+Taiwan	20206.82098
+Taiwan	23235.42329
+Taiwan	28718.27684
+Tanzania	716.6500721
+Tanzania	698.5356073
+Tanzania	722.0038073
+Tanzania	848.2186575
+Tanzania	915.9850592
+Tanzania	962.4922932
+Tanzania	874.2426069
+Tanzania	831.8220794
+Tanzania	825.682454
+Tanzania	789.1862231
+Tanzania	899.0742111
+Tanzania	1107.482182
+Thailand	757.7974177
+Thailand	793.5774148
+Thailand	1002.199172
+Thailand	1295.46066
+Thailand	1524.358936
+Thailand	1961.224635
+Thailand	2393.219781
+Thailand	2982.653773
+Thailand	4616.896545
+Thailand	5852.625497
+Thailand	5913.187529
+Thailand	7458.396327
+Togo	859.8086567
+Togo	925.9083202
+Togo	1067.53481
+Togo	1477.59676
+Togo	1649.660188
+Togo	1532.776998
+Togo	1344.577953
+Togo	1202.201361
+Togo	1034.298904
+Togo	982.2869243
+Togo	886.2205765
+Togo	882.9699438
+Trinidad and Tobago	3023.271928
+Trinidad and Tobago	4100.3934
+Trinidad and Tobago	4997.523971
+Trinidad and Tobago	5621.368472
+Trinidad and Tobago	6619.551419
+Trinidad and Tobago	7899.554209
+Trinidad and Tobago	9119.528607
+Trinidad and Tobago	7388.597823
+Trinidad and Tobago	7370.990932
+Trinidad and Tobago	8792.573126
+Trinidad and Tobago	11460.60023
+Trinidad and Tobago	18008.50924
+Tunisia	1468.475631
+Tunisia	1395.232468
+Tunisia	1660.30321
+Tunisia	1932.360167
+Tunisia	2753.285994
+Tunisia	3120.876811
+Tunisia	3560.233174
+Tunisia	3810.419296
+Tunisia	4332.720164
+Tunisia	4876.798614
+Tunisia	5722.895655
+Tunisia	7092.923025
+Turkey	1969.10098
+Turkey	2218.754257
+Turkey	2322.869908
+Turkey	2826.356387
+Turkey	3450.69638
+Turkey	4269.122326
+Turkey	4241.356344
+Turkey	5089.043686
+Turkey	5678.348271
+Turkey	6601.429915
+Turkey	6508.085718
+Turkey	8458.276384
+Uganda	734.753484
+Uganda	774.3710692
+Uganda	767.2717398
+Uganda	908.9185217
+Uganda	950.735869
+Uganda	843.7331372
+Uganda	682.2662268
+Uganda	617.7244065
+Uganda	644.1707969
+Uganda	816.559081
+Uganda	927.7210018
+Uganda	1056.380121
+United Kingdom	9979.508487
+United Kingdom	11283.17795
+United Kingdom	12477.17707
+United Kingdom	14142.85089
+United Kingdom	15895.11641
+United Kingdom	17428.74846
+United Kingdom	18232.42452
+United Kingdom	21664.78767
+United Kingdom	22705.09254
+United Kingdom	26074.53136
+United Kingdom	29478.99919
+United Kingdom	33203.26128
+United States	13990.48208
+United States	14847.12712
+United States	16173.14586
+United States	19530.36557
+United States	21806.03594
+United States	24072.63213
+United States	25009.55914
+United States	29884.35041
+United States	32003.93224
+United States	35767.43303
+United States	39097.09955
+United States	42951.65309
+Uruguay	5716.766744
+Uruguay	6150.772969
+Uruguay	5603.357717
+Uruguay	5444.61962
+Uruguay	5703.408898
+Uruguay	6504.339663
+Uruguay	6920.223051
+Uruguay	7452.398969
+Uruguay	8137.004775
+Uruguay	9230.240708
+Uruguay	7727.002004
+Uruguay	10611.46299
+Venezuela	7689.799761
+Venezuela	9802.466526
+Venezuela	8422.974165
+Venezuela	9541.474188
+Venezuela	10505.25966
+Venezuela	13143.95095
+Venezuela	11152.41011
+Venezuela	9883.584648
+Venezuela	10733.92631
+Venezuela	10165.49518
+Venezuela	8605.047831
+Venezuela	11415.80569
+Vietnam	605.0664917
+Vietnam	676.2854478
+Vietnam	772.0491602
+Vietnam	637.1232887
+Vietnam	699.5016441
+Vietnam	713.5371196
+Vietnam	707.2357863
+Vietnam	820.7994449
+Vietnam	989.0231487
+Vietnam	1385.896769
+Vietnam	1764.456677
+Vietnam	2441.576404
+West Bank and Gaza	1515.592329
+West Bank and Gaza	1827.067742
+West Bank and Gaza	2198.956312
+West Bank and Gaza	2649.715007
+West Bank and Gaza	3133.409277
+West Bank and Gaza	3682.831494
+West Bank and Gaza	4336.032082
+West Bank and Gaza	5107.197384
+West Bank and Gaza	6017.654756
+West Bank and Gaza	7110.667619
+West Bank and Gaza	4515.487575
+West Bank and Gaza	3025.349798
+Yemen, Rep.	781.7175761
+Yemen, Rep.	804.8304547
+Yemen, Rep.	825.6232006
+Yemen, Rep.	862.4421463
+Yemen, Rep.	1265.047031
+Yemen, Rep.	1829.765177
+Yemen, Rep.	1977.55701
+Yemen, Rep.	1971.741538
+Yemen, Rep.	1879.496673
+Yemen, Rep.	2117.484526
+Yemen, Rep.	2234.820827
+Yemen, Rep.	2280.769906
+Zambia	1147.388831
+Zambia	1311.956766
+Zambia	1452.725766
+Zambia	1777.077318
+Zambia	1773.498265
+Zambia	1588.688299
+Zambia	1408.678565
+Zambia	1213.315116
+Zambia	1210.884633
+Zambia	1071.353818
+Zambia	1071.613938
+Zambia	1271.211593
+Zimbabwe	406.8841148
+Zimbabwe	518.7642681
+Zimbabwe	527.2721818
+Zimbabwe	569.7950712
+Zimbabwe	799.3621758
+Zimbabwe	685.5876821
+Zimbabwe	788.8550411
+Zimbabwe	706.1573059
+Zimbabwe	693.4207856
+Zimbabwe	792.4499603
+Zimbabwe	672.0386227
+Zimbabwe	469.7092981
